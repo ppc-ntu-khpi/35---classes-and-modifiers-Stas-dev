@@ -17,8 +17,8 @@ public class Customer {
         System.out.println("User id - " +ID);
         System.out.println("Total purchase - " +total);
         System.out.println("isNew - " +isNew);
-
-
+        
+    
     }
     public int getId()
     {
@@ -59,5 +59,3 @@ public class Customer {
     {
     }
 }
-
-screen: https://drive.google.com/file/d/1J6fm2a_2uaTTRYy7ZqiEp8Wtl8IT3IDk/view?usp=sharing
