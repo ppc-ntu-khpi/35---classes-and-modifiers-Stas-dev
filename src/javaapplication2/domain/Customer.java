@@ -1,4 +1,3 @@
-```java
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -18,8 +17,8 @@ public class Customer {
         System.out.println("User id - " +ID);
         System.out.println("Total purchase - " +total);
         System.out.println("isNew - " +isNew);
-
-
+        
+    
     }
     public int getId()
     {
@@ -60,6 +59,3 @@ public class Customer {
     {
     }
 }
-```
-# screen: 
-![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Stas-dev/blob/main/Solution/advanced.png)
