@@ -61,4 +61,5 @@ public class Customer {
     }
 }
 ```
-screen: https://drive.google.com/file/d/1J6fm2a_2uaTTRYy7ZqiEp8Wtl8IT3IDk/view?usp=sharing
+# screen: 
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Stas-dev/blob/main/Solution/advanced.png)
